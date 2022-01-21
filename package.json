@@ -1,0 +1,14 @@
+{
+  "name": "ssr-issue",
+  "private": true,
+  "scripts": {
+    "test": "vitest --dom"
+  },
+  "dependencies": {
+    "vitest": "^0.1.26"
+  },
+  "devDependencies": {
+    "happy-dom": "^2.28.0",
+    "vue": "^3.2.28"
+  }
+}
